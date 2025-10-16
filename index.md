@@ -6,7 +6,7 @@ I am a fifth year PhD student at [IMPA](https://impa.br/?lang=en), co-supervised
 My research interests are Ramsey theory, probabilistic and additive combinatorics, and convex geometry.
 These interests are meant in a broad sense, and I am also open to learning about and working on other nice problems.
 
-## Publications
+## Publications (see also [arXiv](https://arxiv.org/a/dahia_g_1.html))
 
 - <a style="color:black" href="https://aragaolucas.github.io/">L. Aragão</a>, M. Campos, **G. Dahia**, R. Filipe, J.P. Marciano <br>
   [An exponential upper bound for induced Ramsey numbers](https://arxiv.org/abs/2509.22629) <br>
@@ -49,4 +49,3 @@ These are my publications and pre-prints from that time.
   [A study of CNN outside of training conditions](https://www.doi.org/10.1109/ICIP.2017.8296997)  
   Published as a conference paper at the *2017 IEEE International Conference on Image Processing (ICIP)*, 2017
 
-[All my preprints on arXiv](https://arxiv.org/a/dahia_g_1.html)
