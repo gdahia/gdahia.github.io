@@ -22,8 +22,8 @@ These interests are meant in a broad sense, and I am also open to learning about
 
 ### Computer vision
 
-During my masters and bachelors degree, I worked on Computer vision.
-These are my publications and pre-prints from that time.
+During my masters and bachelors degree, I worked on computer vision.
+These are my publications and preprints from that time.
 
 - **G. Dahia**, <a style="color:black" href="https://maups.github.io/">M. Pamplona Segundo</a> <br>
   [Meta Learning for Few-Shot One-class Classification](https://doi.org/10.3390/ai2020012) <br>
