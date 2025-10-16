@@ -2,15 +2,13 @@
 
 `gabriel.dahia (at) impa.br`
 
-<br>
-
 I am a fifth year PhD student at [IMPA](https://impa.br/?lang=en), co-supervised by [Marcelo Campos](https://marceloscampos.github.io/) and [Rob Morris](https://robiscounting.github.io/).
 My research interests are Ramsey theory, probabilistic and additive combinatorics, and convex geometry.
 These interests are meant in a broad sense, and I am also open to learning about and working on other nice problems.
 
 ## Publications
 
-- <a color=black href="https://aragaolucas.github.io/">L. Aragão</a>, M. Campos, **G. Dahia**, R. Filipe, J.P. Marciano <br>
+- <a style="color:black" href="https://aragaolucas.github.io/">L. Aragão</a>, M. Campos, **G. Dahia**, R. Filipe, J.P. Marciano <br>
   [An exponential upper bound for induced Ramsey numbers](https://arxiv.org/abs/2509.22629) <br>
   Preprint, 2025
 
@@ -27,7 +25,7 @@ These interests are meant in a broad sense, and I am also open to learning about
 During my masters and bachelors degree, I worked on Computer vision.
 These are my publications and pre-prints from that time.
 
-- **G. Dahia**, <a color=black href="https://maups.github.io/">M. Pamplona Segundo</a> <br>
+- **G. Dahia**, <a style="color:black" href="https://maups.github.io/">M. Pamplona Segundo</a> <br>
   [Meta Learning for Few-Shot One-class Classification](https://doi.org/10.3390/ai2020012) <br>
   Accepted to *AI*, 2021
 
@@ -35,7 +33,7 @@ These are my publications and pre-prints from that time.
   [Continuous authentication using biometrics: An advanced review](https://doi.org/10.1002/widm.1365) <br>
   Accepted to *WIREs Data Mining and Knowledge Discovery*, 2020
 
-- <a color=black href="https://lucasamparo.github.io/">L. A. Barbosa</a>, **G. Dahia**, M. Pamplona Segundo <br>
+- <a style="color:black" href="https://lucasamparo.github.io/">L. A. Barbosa</a>, **G. Dahia**, M. Pamplona Segundo <br>
   [Expression removal in 3D faces for recognition purposes](https://www.doi.org/10.1109/BRACIS.2019.00135) <br>
   Published as a conference paper at the *8th Brazilian Conference on Intelligent Systems (BRACIS)*, 2019
 
