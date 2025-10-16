@@ -14,11 +14,11 @@ These interests are meant in a broad sense, and I am also open to learning about
 
 - M. Campos, **G. Dahia**, J.P. Marciano <br>
   [On the independence number of sparser random Cayley graphs](https://doi.org/10.1112/jlms.70041) <br>
-  Accepted to the *Journal of the London Mathematical Society*, 2024
+  *Journal of the London Mathematical Society*, 2024
 
 - L. Aragão, M. Collares, **G. Dahia**, J.P. Marciano <br>
   [The diameter of randomly twisted hypercubes](https://doi.org/10.1016/j.ejc.2024.104078) <br>
-  Accepted to the *European Journal of Combinatorics*, 2025
+  *European Journal of Combinatorics*, 2025
 
 ### Computer vision
 
@@ -27,11 +27,11 @@ These are my publications and preprints from that time.
 
 - **G. Dahia**, <a style="color:black" href="https://maups.github.io/">M. Pamplona Segundo</a> <br>
   [Meta Learning for Few-Shot One-class Classification](https://doi.org/10.3390/ai2020012) <br>
-  Accepted to *AI*, 2021
+  *AI*, 2021
 
 - **G. Dahia**, L. Jesus, M. Pamplona Segundo <br>
   [Continuous authentication using biometrics: An advanced review](https://doi.org/10.1002/widm.1365) <br>
-  Accepted to *WIREs Data Mining and Knowledge Discovery*, 2020
+  *WIREs Data Mining and Knowledge Discovery*, 2020
 
 - <a style="color:black" href="https://lucasamparo.github.io/">L. A. Barbosa</a>, **G. Dahia**, M. Pamplona Segundo <br>
   [Expression removal in 3D faces for recognition purposes](https://www.doi.org/10.1109/BRACIS.2019.00135) <br>
