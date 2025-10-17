@@ -7,7 +7,9 @@ My research interests are Ramsey theory, probabilistic and additive combinatoric
 These interests are meant in a broad sense, and I am also open to learning about and working on other nice problems.
 See also my full [academic CV](resources/gabriel_dahia_resume.pdf).
 
-## Research (see also [arXiv](https://arxiv.org/a/dahia_g_1.html))
+## Research
+
+My [arXiv author page](https://arxiv.org/a/dahia_g_1.html) is always up-to-date.
 
 - <a style="color:black" href="https://aragaolucas.github.io/">L. Aragão</a>, M. Campos, **G. Dahia**, R. Filipe, J.P. Marciano <br>
   [An exponential upper bound for induced Ramsey numbers](https://arxiv.org/abs/2509.22629) <br>
