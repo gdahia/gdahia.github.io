@@ -9,8 +9,6 @@ See also my full [academic CV](resources/gabriel_dahia_resume.pdf).
 
 ## Research
 
-My [arXiv author page](https://arxiv.org/a/dahia_g_1.html) is always up-to-date.
-
 - <a style="color:black" href="https://aragaolucas.github.io/">L. Aragão</a>, M. Campos, **G. Dahia**, R. Filipe, J.P. Marciano <br>
   [An exponential upper bound for induced Ramsey numbers](https://arxiv.org/abs/2509.22629) <br>
   Preprint, 2025
@@ -22,6 +20,8 @@ My [arXiv author page](https://arxiv.org/a/dahia_g_1.html) is always up-to-date.
 - L. Aragão, M. Collares, **G. Dahia**, J.P. Marciano <br>
   [The diameter of randomly twisted hypercubes](https://doi.org/10.1016/j.ejc.2024.104078) <br>
   *European Journal of Combinatorics*, volume 124, paper no. 104078, 2025
+
+My [arXiv author page](https://arxiv.org/a/dahia_g_1.html) is always up-to-date.
 
 ### Computer vision
 
