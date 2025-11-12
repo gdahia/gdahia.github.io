@@ -11,7 +11,7 @@ See also my full [academic CV](resources/gabriel_dahia_resume.pdf).
 
 - <a style="color:black" href="https://aragaolucas.github.io/">L. Aragão</a>, M. Campos, **G. Dahia**, R. Filipe, J.P. Marciano <br>
   [An exponential upper bound for induced Ramsey numbers](https://arxiv.org/abs/2509.22629) <br>
-  Preprint, 2025
+  Submitted, 2025
 
 - M. Campos, **G. Dahia**, J.P. Marciano <br>
   [On the independence number of sparser random Cayley graphs](https://doi.org/10.1112/jlms.70041) <br>
