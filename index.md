@@ -15,12 +15,12 @@ See also my full [academic CV](resources/gabriel_dahia_resume.pdf).
   Submitted, 2025
 
 - M. Campos, **G. Dahia**, J.P. Marciano <br>
-  [On the independence number of sparser random Cayley graphs](https://doi.org/10.1112/jlms.70041) <br>
-  *Journal of the London Mathematical Society*, volume 110, issue 6, 2024
+  [On the independence number of sparser random Cayley graphs](https://arxiv.org/abs/2406.09361) <br>
+  <a style="color:black" href="https://doi.org/10.1112/jlms.70041">*Journal of the London Mathematical Society*, volume 110, issue 6, 2024</a>
 
 - L. Aragão, M. Collares, **G. Dahia**, J.P. Marciano <br>
-  [The diameter of randomly twisted hypercubes](https://doi.org/10.1016/j.ejc.2024.104078) <br>
-  *European Journal of Combinatorics*, volume 124, paper no. 104078, 2025
+  [The diameter of randomly twisted hypercubes](https://arxiv.org/abs/2306.01728) <br>
+  <a style="color:black" href="https://doi.org/10.1016/j.ejc.2024.104078">*European Journal of Combinatorics*, volume 124, paper no. 104078, 2025</a>
 
 My [arXiv author page](https://arxiv.org/a/dahia_g_1.html) is always up-to-date.
 
