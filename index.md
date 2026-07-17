@@ -10,6 +10,10 @@ See also my full [academic CV](resources/gabriel_dahia_resume.pdf).
 
 ## Research
 
+- **G. Dahia**, J.P. Marciano, <a style="color:black" href="https://souza.id/">V. Souza</a> <br>
+  [Dense sets without large sumsets](https://arxiv.org/abs/2607.15269) <br>
+  Preprint, 2026
+
 - <a style="color:black" href="https://aragaolucas.github.io/">L. Aragão</a>, M. Campos, **G. Dahia**, R. Filipe, J.P. Marciano <br>
   [An exponential upper bound for induced Ramsey numbers](https://arxiv.org/abs/2509.22629) <br>
   Submitted, 2025
