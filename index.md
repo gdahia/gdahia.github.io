@@ -10,7 +10,7 @@ See also my full [academic CV](resources/gabriel_dahia_resume.pdf).
 
 ## Research
 
-- **G. Dahia**, J.P. Marciano, <a style="color:black" href="https://souza.id/">V. Souza</a> <br>
+- **G. Dahia**, <a style="color:black" href="https://jpmarciano.github.io/">J.P. Marciano</a>, <a style="color:black" href="https://souza.id/">V. Souza</a> <br>
   [Dense sets without large sumsets](https://arxiv.org/abs/2607.15269) <br>
   Submitted, 2026
 
