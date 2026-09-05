@@ -12,7 +12,6 @@ Morris](https://robiscounting.github.io/).
 
 My research interests are Ramsey theory, probabilistic and additive combinatorics, and convex geometry.
 These interests are meant in a broad sense, and I am open to learning about and working on other nice problems.
-Here is my [academic CV](resources/gabriel_dahia_resume.pdf).
 
 ## Research
 
