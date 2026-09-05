@@ -1,12 +1,18 @@
 # Gabriel Dahia
 
-`gabriel.dahia (at) impa.br`
+`gabriel.dahiafernandes (at) epfl.ch`
 
-I [completed my PhD](resources/gabriel_dahia_phd_thesis.pdf) at [IMPA](https://impa.br/?lang=en), co-supervised by
-[Marcelo Campos](https://marceloscampos.github.io/) and [Rob Morris](https://robiscounting.github.io/).
+I am a postdoc in the Extremal combinatorics group of
+[Oliver Janzer](https://sites.google.com/view/oliver-janzer/home) at
+[EPFL](https://www.epfl.ch/schools/sb/research/math/).
+
+Previously, I [completed my PhD](resources/gabriel_dahia_phd_thesis.pdf) at [IMPA](https://impa.br/?lang=en),
+co-supervised by [Marcelo Campos](https://marceloscampos.github.io/) and [Rob
+Morris](https://robiscounting.github.io/).
+
 My research interests are Ramsey theory, probabilistic and additive combinatorics, and convex geometry.
 These interests are meant in a broad sense, and I am open to learning about and working on other nice problems.
-See also my full [academic CV](resources/gabriel_dahia_resume.pdf).
+Here is my [academic CV](resources/gabriel_dahia_resume.pdf).
 
 ## Research
 
