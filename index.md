@@ -15,7 +15,11 @@ These interests are meant in a broad sense, and I am open to learning about and 
 
 ## Research
 
-- **G. Dahia**, <a style="color:black" href="https://jpmarciano.github.io/">J.P. Marciano</a>, <a style="color:black" href="https://souza.id/">V. Souza</a> <br>
+- M. Campos, **G. Dahia**, <a style="color:black" href="https://jpmarciano.github.io/">J.P. Marciano</a>
+  [Counting sets with given doubling via dimension](https://arxiv.org/abs/2609.05384) <br>
+  Preprint, 2026
+
+- **G. Dahia**, J.P. Marciano, <a style="color:black" href="https://souza.id/">V. Souza</a> <br>
   [Dense sets without large sumsets](https://arxiv.org/abs/2607.15269) <br>
   Submitted, 2026
 
