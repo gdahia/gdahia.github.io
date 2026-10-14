@@ -15,6 +15,10 @@ These interests are meant in a broad sense, and I am open to learning about and 
 
 ## Research
 
+- **G. Dahia** <br>
+  [Szemerédi's theorem with random differences and arithmetic Kakeya](https://arxiv.org/abs/2610.18859) <br>
+  Preprint, 2026
+
 - M. Campos, **G. Dahia**, <a style="color:black" href="https://jpmarciano.github.io/">J.P. Marciano</a> <br>
   [Counting sets with given doubling via dimension](https://arxiv.org/abs/2609.05384) <br>
   Submitted, 2026
