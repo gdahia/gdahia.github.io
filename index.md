@@ -17,7 +17,8 @@ These interests are meant in a broad sense, and I am open to learning about and 
 
 - **G. Dahia** <br>
   [Szemerédi's theorem with random differences and arithmetic Kakeya](https://arxiv.org/abs/2610.18859) <br>
-  Submitted, 2026
+  Submitted, 2026 <br>
+  [Lean4 formalisation](https://github.com/gdahia/SzemerediWithRandomDifferences) · [Palomar](https://palomar-registry.org/entry?id=PALOMAR-2026-10-22-000029&version=1)
 
 - M. Campos, **G. Dahia**, <a style="color:black" href="https://jpmarciano.github.io/">J.P. Marciano</a> <br>
   [Counting sets with given doubling via dimension](https://arxiv.org/abs/2609.05384) <br>
