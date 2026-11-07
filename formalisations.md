@@ -9,6 +9,11 @@ Lean4 formalisations I have written with LLMs of other people's works.
   Preprint, 2026 <br>
   [Lean4 code](https://github.com/gdahia/Komlos) · [Palomar](https://palomar-registry.org/entry?id=PALOMAR-2026-09-18-000003&version=1)
 
+- J. Fox, L. M. Lovász <br>
+  [A tight bound for Green's arithmetic triangle removal lemma in vector spaces](https://arxiv.org/abs/1606.01230) <br>
+  <a style="color:black" href="https://doi.org/10.1016/j.aim.2017.09.037">*Advances in Mathematics*, volume 321, 2017</a> <br>
+  [Lean4 code](https://github.com/gdahia/ArithmeticTriangleRemovalInVectorSpaces) · [Palomar](https://palomar-registry.org/entry?id=PALOMAR-2026-11-07-000005&version=1)
+
 - P. Dodos, V. Kanellopoulos, K. Tyros <br>
   [A simple proof of the density Hales–Jewett theorem](https://arxiv.org/abs/1209.4986) <br>
   <a style="color:black" href="https://doi.org/10.1093/imrn/rnt041">*International Mathematics Research Notices*, volume 2014, issue 12, 2014</a> <br>
