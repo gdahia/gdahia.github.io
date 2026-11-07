@@ -1,6 +1,4 @@
-# Formalisations
-
-[Gabriel Dahia](./)
+### Formalisations
 
 Lean4 formalisations I have written with LLMs of other people's works.
 
