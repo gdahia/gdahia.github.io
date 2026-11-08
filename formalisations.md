@@ -1,6 +1,6 @@
 ### Formalisations
 
-Lean4 formalisations I have written with LLMs of other people's works.
+Lean4 formalisations that I have written (with LLMs) of other people's works.
 
 - S. R. Karingula, S. Lovett <br>
   [An elementary proof of the Komlós conjecture](https://arxiv.org/abs/2609.20979) <br>
